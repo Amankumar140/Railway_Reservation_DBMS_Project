@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "multiStatements": true,
+                "authProtocol": "default",
+                "enableSsl": "Enabled",
+                "ssl": {
+                    "ca": "C:\\Users\\amank\\OneDrive\\Desktop\\ca.pem"
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "railway-reservation-booking-aman140426-3038.l.aivencloud.com",
+            "port": 11977,
+            "driver": "MySQL",
+            "name": "Aiven Railway",
+            "database": "defaultdb",
+            "username": "avnadmin"
+        }
+    ]
+}

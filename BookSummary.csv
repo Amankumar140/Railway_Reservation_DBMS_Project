@@ -1,0 +1,15 @@
+booking_id,passenger_name,train_name,travel_date,departure_time,seat_no,coach,amount,booking_status
+1,Aman Kumar,Rajdhani Express,05-12-2025,18:00:00,45,B1,1550,BOOKED
+6,Aman Kumar,Rajdhani Express,05-12-2025,18:00:00,51,B1,1550,CANCELLED
+7,Aman Kumar,Rajdhani Express,05-12-2025,18:00:00,,,,BOOKED
+8,Aman Kumar,Rajdhani Express,05-12-2025,18:00:00,52,B1,1600,BOOKED
+9,Aman Kumar,Rajdhani Express,05-12-2025,18:00:00,99,B3,1450,BOOKED
+10,Aman Kumar,Rajdhani Express,05-12-2025,18:00:00,99,B3,1450,BOOKED
+11,Aman Kumar,Rajdhani Express,05-12-2025,18:00:00,99,B3,1450,BOOKED
+12,Aman Kumar,Rajdhani Express,05-12-2025,18:00:00,99,B3,1450,BOOKED
+13,Aman Kumar,Rajdhani Express,05-12-2025,18:00:00,99,B3,1450,BOOKED
+14,Aman Kumar,Rajdhani Express,05-12-2025,18:00:00,50,B3,1400,BOOKED
+2,Riya Sharma,Mumbai Superfast,08-12-2025,06:30:00,12,S2,980.5,BOOKED
+3,Rohan Verma,Sanghamitra Express,09-12-2025,05:45:00,7,A1,2200,BOOKED
+4,Simran Kaur,Dehradun Shatabdi,11-12-2025,07:00:00,21,C1,1120.75,BOOKED
+5,Vikram Singh,Mumbai Express,12-12-2025,16:15:00,30,B2,1750,BOOKED

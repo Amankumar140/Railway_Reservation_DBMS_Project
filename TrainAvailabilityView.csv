@@ -1,0 +1,6 @@
+"train_id","train_number","train_name","source","destination","schedule_id","travel_date","available_seats"
+1,"12301","Rajdhani Express","Delhi","Mumbai",1,"2025-12-05",91
+2,"12951","Mumbai Superfast","Mumbai","New Delhi",2,"2025-12-08",119
+3,"12296","Sanghamitra Express","Patna","Bangalore",3,"2025-12-09",149
+4,"12046","Dehradun Shatabdi","Dehradun","New Delhi",4,"2025-12-11",109
+5,"22120","Mumbai Express","Mumbai","Chennai",5,"2025-12-12",139

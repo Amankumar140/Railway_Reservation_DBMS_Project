@@ -1,0 +1,4 @@
+"booking_id","passenger_id","schedule_id","booking_date","booking_status"
+14,1,1,"2025-11-18 19:16:46","BOOKED"
+13,1,1,"2025-11-18 19:10:30","BOOKED"
+12,1,1,"2025-11-18 19:10:16","BOOKED"

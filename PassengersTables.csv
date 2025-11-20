@@ -1,0 +1,6 @@
+"passenger_id","name","email","password","phone","address","created_at"
+1,"Aman Kumar","aman@gmail.com","pass123","9876543210","Patna, Bihar","2025-11-18 18:18:14"
+2,"Riya Sharma","riya@gmail.com","pass456","9998887776","Delhi, India","2025-11-18 18:18:14"
+3,"Rohan Verma","rohan@gmail.com","rohan789","9988776655","Mumbai, India","2025-11-18 18:18:14"
+4,"Simran Kaur","simran@gmail.com","simran321","9090808070","Chandigarh, India","2025-11-18 18:18:14"
+5,"Vikram Singh","vikram@gmail.com","vikram654","9123456780","Jaipur, Rajasthan","2025-11-18 18:18:14"

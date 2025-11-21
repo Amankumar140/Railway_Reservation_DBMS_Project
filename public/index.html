@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Railway Reservation System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>🚆 Railway Reservation System</h1>
+
+<div class="container">
+
+    <!-- SEARCH TRAIN SECTION -->
+    <section class="card">
+        <h2>🔍 Search Train</h2>
+        <input id="searchSource" placeholder="Source Station">
+        <input id="searchDestination" placeholder="Destination Station">
+        <button onclick="searchTrain()">Search</button>
+        <pre id="searchOutput"></pre>
+    </section>
+
+    <!-- TRAIN AVAILABILITY -->
+    <section class="card">
+        <h2>📅 Train Availability</h2>
+        <button onclick="loadTrains()">Load Trains</button>
+        <pre id="trainOutput"></pre>
+    </section>
+
+    <!-- BOOK TICKET -->
+    <section class="card">
+        <h2>🎫 Book Ticket</h2>
+
+        <input id="pid" placeholder="Passenger ID">
+        <input id="sid" placeholder="Schedule ID">
+        <input id="seat" placeholder="Seat No">
+        <input id="coach" placeholder="Coach (B3, S2)">
+        <input id="cls" placeholder="Class (3AC, Sleeper)">
+        <input id="amt" placeholder="Amount">
+
+        <button onclick="bookTicket()">Book Now</button>
+    </section>
+
+    <!-- CANCEL TICKET -->
+    <section class="card">
+        <h2>❌ Cancel Ticket</h2>
+        <input id="cancelId" placeholder="Booking ID">
+        <button onclick="cancelTicket()">Cancel Ticket</button>
+    </section>
+
+    <!-- BOOKING SUMMARY -->
+    <section class="card">
+        <h2>📘 Booking Summary</h2>
+        <button onclick="loadSummary()">Load Summary</button>
+        <pre id="summaryOutput"></pre>
+    </section>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
